@@ -1,3 +1,4 @@
+# MCI_test
 How to install
     git clone https://github.com/username/repository-name.git
 How to run
